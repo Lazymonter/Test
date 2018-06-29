@@ -9,7 +9,7 @@ void swap(int * a,int * b)
     *b = temp;
 }
 
-void clockwise(int arr[][4],int n)//˳ʱ��
+void clockwise(int arr[][4],int n)//Ë³Ê±Õë
 {
     for(int i = 0;i < n;i++)
     {

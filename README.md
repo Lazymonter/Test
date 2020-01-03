@@ -1,2 +1,2 @@
-# Test
-Some Questions
+# simple_algorithm
+Some Questions And Algorithms
